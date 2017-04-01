@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "66991662343",
+    "project_id": "apotemi-karekod"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66991662343:android:162c86bdcb8d31a3",
+        "android_client_info": {
+          "package_name": "com.apotemi.karekod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw18vgBf2EdAci224lrDgxHsw17eLbunI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-96525315-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
